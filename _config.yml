@@ -1,10 +1,10 @@
-title: Oinam Jekyll
+title: 20213020 신동은 블로그
 description: A simple, clean, and minimal Jekyll Theme.
 
 # Set this to your domain; baseurl is for the folder in your domain, if you have one -- `blog`.
 # you can leave both of them blank if you are deploying on a top-level domain.
-url: https://oinam.github.io
-baseurl: /oinam-jekyll
+url: https://xsilvern.github.io/
+baseurl: /xsilvern
 
 # footer
 footer:
