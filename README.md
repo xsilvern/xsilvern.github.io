@@ -3,14 +3,23 @@
 토큰을 생성.
 <br/>
 blog 폴더를 생성하고 깃과 연동시켜 index.html을 커밋 후 푸시함.
+<br/>
 jekyll을 다운받고 설치. chcp 65001 실행.
+<br/>
 깃 배시로 jekyll 설치. 서버 load error,  gem add webrick 후 다시 빌드.
+<br/>
 Auto-regeneration: enabled for 'C:/Users/User/Desktop/bloggame/blog'
+<br/>
 C:/Ruby30-x64/lib/ruby/gems/3.0.0/gems/jekyll-4.2.1/lib/jekyll/commands/serve/servlet.rb:3:in `require': cannot load such file -- webrick (LoadError)
+<br/>
 여전히 에러. bundle add webrick 후 성공.
+<br/>
 config.yml 몇가지 수정 후 커밋 푸시.
+<br/>
 Not Pure Poole 테마 적용.
+<br/>
 오류 다량 발생.
+<br/>
 
 bundle add jekyll-compose -v 0.12.0
 bundle add jekyll -v 3.9.0
@@ -39,8 +48,10 @@ bundle add sass-listen -v 4.0.0
 bundle add rb-fsevent -v 0.10.4
 bundle add multipart-post -v 2.1.1
 bundle add ffi -v 1.13.1
+<br/>
 적용 후 알 수 없는 오류때문에 다른 테마로 재설치.
+<br/>
 disqus 가입 후 댓글 기능 추가.
-
+<br/>
 구글 애널리스틱 기능 추가
 
