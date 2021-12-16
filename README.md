@@ -1,6 +1,7 @@
 # 빌드 과정
 
 토큰을 생성.
+<br/>
 blog 폴더를 생성하고 깃과 연동시켜 index.html을 커밋 후 푸시함.
 jekyll을 다운받고 설치. chcp 65001 실행.
 깃 배시로 jekyll 설치. 서버 load error,  gem add webrick 후 다시 빌드.
