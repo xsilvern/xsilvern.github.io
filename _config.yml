@@ -76,6 +76,8 @@ comment:
   provider: "disqus"
   disqus:
     shortname:  "xsilverblog"
-provider : "google-gtag"
-google_analytics:
-  tracking_id: G-XTXBBZFF9N
+analytics:
+
+  provider : "google-gtag"
+  google:
+    tracking_id: G-XTXBBZFF9N
